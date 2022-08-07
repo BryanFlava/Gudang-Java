@@ -1,1 +1,1 @@
-# aplikasi-gudang-sederhana-java
+Aplikasi ini dibangun menggunakan JAVA
